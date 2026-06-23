@@ -13,7 +13,7 @@ By utilizing Security through Ambiguity, it securely halts fraudulent transactio
 1. Require the plugin via Composer:
 
 ```Bash
-composer require fraudlabspro/sylius-fraudlabs-pro-plugin
+composer require fraudlabspro/sylius-fraudlabspro-plugin
 ```
 
 2. Register the plugin:
