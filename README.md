@@ -12,8 +12,10 @@ By utilizing Security through Ambiguity, it securely halts fraudulent transactio
 ## Installation
 1. Require the plugin via Composer:
 
-Bash
+```Bash
 composer require fraudlabspro/sylius-fraudlabs-pro-plugin
+```
+
 2. Register the plugin:
 
 Add the bundle to your `config/bundles.php` file (if Symfony Flex didn't do it automatically):
